@@ -5,7 +5,6 @@ Primera entrega:
   - Creado una pantalla inicial
   - Programado movimiento básico del personaje
 
-Planes para la siguiente entrega:
-  - Agregar más pantallas
-  - Agregar plataformas, desafíos
-  - Agregar dialogo, historia
+Segunda entrega:
+  - Dos salas nuevas, con fondos nuevos
+  - Cambiado el fondo de la pantalla inicial
